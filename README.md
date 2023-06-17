@@ -1,2 +1,3 @@
 # zerojudge_python-2021.9-2022.4
-these python codes are updating while I am a junior high school student !
+
+這些Python程式是我在暑假期間與高中自主學習課程中練習的基礎題庫
